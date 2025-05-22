@@ -1,0 +1,6 @@
+9999999 is a palindrome
+1 is a palindrome
+232322323 is not a palindrome
+1234567890987654321 is a palindrome
+1 is a palindrome
+37173 is a palindrome
